@@ -21,4 +21,4 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=greybillions)  
 
-- 🔭 (**I’m currently working on this page.**)
+- 🔭 **I’m currently working on this page.**
