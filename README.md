@@ -1,9 +1,7 @@
 # Hi There ✌ I'm Grey
 
-- 🔭 I’m currently working on C lang.
-
 ### I'm Graham Boyle from Nigeria. I do Tech writing and I am a Front-End Developer. I am student of ALX Africa and i really enjoy learning new languages and frameworks.
-
+- 🔭 I’m currently working on C lang.
 ### Blogs:
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://greybillions.hashnode.dev) 
  
