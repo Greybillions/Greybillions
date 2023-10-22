@@ -66,10 +66,9 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer <img src="htt
 
 ---
 
-### :writing_hand: Latest Blog Posts :
-* [How To Use Neovim: A Comprehensive Introduction](https://greyboyle.hashnode.dev/how-to-use-neovim-a-comprehensive-introduction)
-* [The Basics of Web Development: A Practical Guide for Beginners](https://greyboyle.hashnode.dev/the-basics-of-web-development-a-practical-guide-for-beginners)
-
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 
 ### 😉: Programming Joke :
