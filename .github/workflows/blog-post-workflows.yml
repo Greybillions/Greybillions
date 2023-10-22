@@ -7,11 +7,11 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+    name: Update this repos README with the latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: greybillions/blog-post-workflow@master
         with:
           max_post_count: "4"
           feed_list: "https://greyboyle.hashnode.dev"
