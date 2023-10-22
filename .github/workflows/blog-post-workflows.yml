@@ -1,17 +1,22 @@
 name: Latest blog post workflow
+
 on:
   schedule:
     # Runs every hour
-    - cron: '30 5,17 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repos README with the latest blog posts
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://https://greyboyle.hashnode.dev/"
+          feed_list: "https://greyboyle.hashnode.dev/rss.xml"
