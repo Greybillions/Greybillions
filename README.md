@@ -66,6 +66,6 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer <img src="htt
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Latest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
