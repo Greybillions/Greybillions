@@ -68,6 +68,9 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer <img src="htt
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [The Basics of Web Development: A Practical Guide for Beginners](https://greyboyle.hashnode.dev/the-basics-of-web-development-a-practical-guide-for-beginners)
+- [How To Use Neovim: A Comprehensive Introduction](https://greyboyle.hashnode.dev/how-to-use-neovim-a-comprehensive-introduction)
+- [Easy Steps To Install Ubuntu On Windows OS](https://greyboyle.hashnode.dev/easy-steps-to-install-ubuntu-on-windows-os)
 <!-- BLOG-POST-LIST:END -->
 ---
 
