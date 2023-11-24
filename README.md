@@ -33,11 +33,11 @@
 
 ### :man_technologist: About Me :
 
-Welcome to my GitHub profile! I'm a passionate Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria, specializing in Web development. 
+Welcome to my GitHub profile! I'm a dynamic Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria, specializing in Web development. 
 
 - 💻 Currently, I'm working as a freelance technical writer, utilizing my expertise in technical documentation while still studying web development.
 - ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
-- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
+- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Graham_Boyle-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/graham-boyle-556471250/)
 
 ---
