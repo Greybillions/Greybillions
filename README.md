@@ -50,6 +50,11 @@ Welcome to my GitHub profile! I'm a dynamic Front-End Developer <img src="https:
 ### 🔥 My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Greybillions&theme=dark)](https://git.io/streak-stats)
 
+---
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Greybillions/repos?time_range=one_year&theme=bright_lights)](https://api.githubtrends.io/user/svg/Greybillions/repos?time_range=one_year&theme=bright_lights)
+
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greybillions&layout=compact&theme=vision-friendly-dark)](https://github.com/greybillions)-->
 
@@ -68,5 +73,3 @@ Welcome to my GitHub profile! I'm a dynamic Front-End Developer <img src="https:
 ### 😉: Programming Joke :
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Greybillions/repos?time_range=one_year&theme=bright_lights)](https://api.githubtrends.io/user/svg/Greybillions/repos?time_range=one_year&theme=bright_lights)
