@@ -68,3 +68,5 @@ Welcome to my GitHub profile! I'm a dynamic Front-End Developer <img src="https:
 ### 😉: Programming Joke :
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Greybillions/repos?time_range=one_year&theme=bright_lights)](https://api.githubtrends.io/user/svg/Greybillions/repos?time_range=one_year&theme=bright_lights)
