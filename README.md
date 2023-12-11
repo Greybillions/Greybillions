@@ -63,10 +63,10 @@ Welcome to my GitHub profile! I'm a dynamic Front-End Developer <img src="https:
 
 ### ✍🏼 Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Sass It Up: Elevate Your Style Sheet Game](https://greyboyle.hashnode.dev/sass-it-up-elevate-your-style-sheet-game)
 - [Mastering CSS Media Queries: A Practical Guide](https://greyboyle.hashnode.dev/mastering-css-media-queries-a-practical-guide)
 - [How to Run a Live Server on Ubuntu: Quick Guide](https://greyboyle.hashnode.dev/how-to-run-a-live-server-on-ubuntu-quick-guide)
 - [The Basics of Web Development: A Practical Guide for Beginners](https://greyboyle.hashnode.dev/the-basics-of-web-development-a-practical-guide-for-beginners)
-- [How To Use Neovim: A Comprehensive Introduction](https://greyboyle.hashnode.dev/how-to-use-neovim-a-comprehensive-introduction)
 <!-- BLOG-POST-LIST:END -->
 ---
 
