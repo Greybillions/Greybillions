@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a dynamic Front-End Developer <img src="https:
 ---
 
 ### 🛠 Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,git,react)](https://skillicons.dev)
 
 ---
 
