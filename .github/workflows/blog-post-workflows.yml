@@ -18,5 +18,5 @@ jobs:
       - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "4"
+          max_post_count: "3"
           feed_list: "https://greyboyle.hashnode.dev/rss.xml"
