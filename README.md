@@ -63,9 +63,9 @@ Welcome to my GitHub profile! I'm a dynamic Front-End Developer <img src="https:
 
 ### ✍🏼 Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Easy React Animation with GSAP](https://greyboyle.hashnode.dev/easy-react-animation-with-gsap)
 - [JavaScript Fetch API: A Complete Overview - Part Two](https://greyboyle.hashnode.dev/javascript-fetch-api-a-complete-overview-part-two)
 - [JavaScript Fetch API: A Complete Overview](https://greyboyle.hashnode.dev/javascript-fetch-api-a-complete-overview)
-- [Sass It Up: Elevate Your Style Sheet Game](https://greyboyle.hashnode.dev/sass-it-up-elevate-your-style-sheet-game)
 <!-- BLOG-POST-LIST:END -->
 ---
 
