@@ -22,7 +22,7 @@
 </div>
 
 <h1 align="center">
-  hey there 👋
+  Hey there 👋
 </h1>
 
 <div align="center">
@@ -33,9 +33,9 @@
 
 ### 👨🏽‍💻 About Me :
 
-Welcome to my GitHub profile! I'm a dynamic Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria, specializing in Web development. 
+Welcome to my GitHub profile! I'm a dynamic Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria, specializing in Frontend Software Engineering. 
 
-- 💻 Currently, I'm working as a freelance technical writer, utilizing my expertise in technical documentation while still studying web development.
+- 💻 Currently, I'm working as a freelance technical writer, utilizing my expertise in technical documentation while building Shopwith GoMalL.
 - ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Graham_Boyle-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/graham-boyle-556471250/)
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a dynamic Front-End Developer <img src="https:
 ---
 
 ### 🛠 Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,git,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,git,jest,react,next,sqlite)](https://skillicons.dev)
 
 ---
 
