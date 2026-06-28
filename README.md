@@ -52,10 +52,6 @@ I run **Grey Labs**, a registered software consultancy where I take products fro
 
 ---
 
-[![GitHub Trends](https://api.githubtrends.io/user/svg/Greybillions/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
-
----
-
 ### ✍🏼 Latest Posts
 
 - [Easy React Animation with GSAP](https://dev.to/greyboyle/easy-react-animation-with-gsap)
